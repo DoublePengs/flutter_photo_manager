@@ -29,7 +29,6 @@ flutter:
 dependency_overrides:
   photo_manager:
     path: ../
-  photo_manager_image_provider: ^1.1.1
 
   path_provider:
      git:
