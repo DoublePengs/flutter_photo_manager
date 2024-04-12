@@ -34,3 +34,16 @@ flutter:
 dependency_overrides:
   photo_manager:
     path: ../
+
+  path_provider:
+    git:
+      url: http://gitcode.tongdao.cn/dev28/framework/flutter/thirdparty/ohos_flutter_packages.git
+      path: packages/path_provider/path_provider
+  video_player:
+    git:
+      url: http://gitcode.tongdao.cn/dev28/framework/flutter/thirdparty/ohos_flutter_packages.git
+      path: packages/video_player/video_player
+  url_launcher:
+    git:
+      url: http://gitcode.tongdao.cn/dev28/framework/flutter/thirdparty/ohos_flutter_packages.git
+      path: packages/url_launcher/url_launcher
